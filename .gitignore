@@ -1,0 +1,15 @@
+# Python
+*.pyc
+*.pyo
+
+# MacOS
+.DS_Store
+
+# Eclipse
+.project
+.pydevproject
+.settings
+
+# Unit test & coverage
+.coverage
+htmlcov/
